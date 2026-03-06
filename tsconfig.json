@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es2020",
+
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+
+    "declaration": true,
+    "removeComments": true,
+    "sourceMap": true,
+
+    "outDir": "./dist",
+    "baseUrl": "./",
+
+    "incremental": true,
+    "skipLibCheck": true,
+    "strictNullChecks": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
