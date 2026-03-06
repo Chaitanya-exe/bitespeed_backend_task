@@ -139,7 +139,3 @@ The database file is automatically created when the server starts.
 - The **oldest primary contact always remains the primary** during merges.
 - Secondary contacts maintain historical links within the identity cluster.
 - If you want to test with dummy data on the hosted URL please send a POST request on /seed route to seed a sample database.
-
-
-## Hosting information
----
